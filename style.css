@@ -71,7 +71,7 @@ header {
     border-radius: 50%;
     width: 2em;
 }
-footer {
+.reviews-container {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -177,7 +177,7 @@ main {
     align-self: self-end;
 }
 
-footer {
+.reviews-container {
     gap: 2em;
     flex-direction: row;
     align-items: stretch;
